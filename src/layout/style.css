@@ -1,0 +1,23 @@
+.sidebar-container {
+  height: 100%;
+  background: #f4f4f4;
+  width: 20rem;
+  position: fixed;
+  top: 0;
+  z-index: 1;
+}
+
+.sidebar-container section {
+  margin-top: 1rem;
+  width: 100%;
+  padding: 0 1rem;
+}
+.main-container {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  max-width: 56rem;
+  margin-left: 20rem;
+  margin-right: auto;
+  width: 100%;
+}
