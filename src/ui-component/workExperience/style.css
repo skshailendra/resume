@@ -1,0 +1,10 @@
+.work-experience-container {
+  display: flex;
+  width: 100%;
+  padding: 10px;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+.section-heading {
+  padding: 10px;
+}
