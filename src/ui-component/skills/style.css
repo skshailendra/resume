@@ -1,0 +1,11 @@
+.skills-container {
+  margin-top: 1rem;
+}
+
+.skills-heading {
+  display: flex;
+  font-size: 20px;
+  border-bottom: 1px solid #b1aeae;
+  max-width: 80%;
+  margin-bottom: 10px;
+}
