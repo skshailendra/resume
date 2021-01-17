@@ -1,0 +1,18 @@
+.project-desc-container {
+  padding: 1.2rem;
+}
+.project-desc-container h2 {
+  margin-bottom: 1rem;
+}
+.project-desc-container .heading {
+  display: flex;
+  justify-content: space-between;
+}
+.name-title {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 60%;
+}
+.project-desc {
+  margin-top: 1rem;
+}
