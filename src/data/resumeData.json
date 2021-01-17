@@ -1,0 +1,79 @@
+[
+  {
+    "id": "1",
+    "name": "Project 1",
+    "title": "Banking Domain",
+    "position": "Senior FrontEnd Developer",
+    "company": "Publicis Sapient",
+    "tenure": "11/2020 - Present",
+    "role": "Having in-depth Understanding of risk of old codebase tech-stack. So initiated and completely own the migration to new React JS and related tech-stack",
+    "description": "Initiated and discussed with business and completely migrate an Entire old ReactJS 0.14 codebase to modern ReactJS 16 Initiated and completely own the migration to new React JS tech-stack by following Agile Methodologies",
+    "techStack": "React JS(16) ,Redux , SCSS"
+  },
+  {
+    "id": "2",
+    "name": "Project 2",
+    "title": "Banking Domain",
+    "position": "Senior FrontEnd Developer",
+    "company": "Publicis Sapient",
+    "tenure": "08/2020 - 11/2020",
+    "role": "Worked as Senior Front-End Developer to understand the feature product and provide the frontend solution approach. Developing, deploying the application as well as mentoring the team.",
+    "description": "Build a Covid19 Dashboard for another feature product to transform an offline product business model to completely Online Digital Business.",
+    "techStack": "React JS ,Redux , SCSS"
+  },
+  {
+    "id": "3",
+    "name": "Project 3",
+    "title": "Banking Domain",
+    "tenure": "03/2020 - 07/2020",
+    "company": "Publicis Sapient",
+    "position": "Senior FrontEnd Developer",
+    "role": "Worked as Senior FrontEnd Developer Understanding the Client’s Business. Providing the frontend solution approach. Developing, Deploying the Application and mentoring the team.",
+    "description": "Helped the international client in journey of their transformation from an offline product business model to completely Online Digital Business by creating a feature product. i.e. Refinance/transfer to existing loan.",
+    "techStack": "React JS, Redux ,HTML5 , SCSS"
+  },
+  {
+    "id": "4",
+    "name": "Project 4",
+    "title": "Banking Domain",
+    "company": "Publicis Sapient",
+    "tenure": "11/2019 - 03/2020",
+    "position": "Senior FrontEnd Developer",
+    "role": "As Senior FrontEnd Developer Understanding the Client’s Business. Providing the frontend solution approach. Developing, Deploying the Application",
+    "description": "Worked with an international client's feature product i.e. Providing an Financing Solution of Car Loan to their customer.",
+    "techStack": "React JS, Flux, SCSS,Flexbox,HTML5"
+  },
+  {
+    "id": "5",
+    "name": "Project 5",
+    "title": "Travel and Hospitality Domain",
+    "company": "Mindtree",
+    "tenure": "12/2017 - 08/2019",
+    "position": "Module Lead",
+    "role": "Angular Developers Key Achievement: Improve Performance Optimisation of App",
+    "description": "Web-apps for an International Client which allow my client's customers to use the services in their Hotels and simultaneously my client’s associate use this app to chat with the organiser and provide the instant resolution to the customers.",
+    "techStack": "Angular 1.x, Bootstrap3, HTML5, CSS3"
+  },
+  {
+    "id": "6",
+    "name": "Project 6",
+    "title": "Travel and Hospitality Domain",
+    "tenure": "08/2016 - 11/2017",
+    "company": "Mindtree",
+    "position": "Senior FrontEnd Developer",
+    "role": "As Senior FrontEnd Developer Understanding the Client’s Business.Develop and Improve Performance Optimisation of App",
+    "description": "Web-apps for an International Client which allow my client's customers to use the services in their Hotels",
+    "techStack": "Angular 1.x, Bootstrap3,Gulp, HTML5, CSS3,Karma-Jasmine"
+  },
+  {
+    "id": "7",
+    "name": "Project 7",
+    "title": "Travel and Hospitality Domain",
+    "tenure": "11/2015 - 07/2016",
+    "company": "Mindtree",
+    "position": "FrontEnd Developer",
+    "role": "As Angular JS Developer develop code and to Improve Performance of App includes infinite scroll app performance",
+    "description": "Helped the international client in journey of their transformation of offline product business model to completely Online Digital Business by creating a feature product.",
+    "techStack": "Angular 1.x, Bootstrap3,Gulp, HTML5, CSS3, Karma-Jasmine"
+  }
+]
