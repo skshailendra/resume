@@ -1,0 +1,19 @@
+.aboutme-primary {
+  padding: 1rem;
+  background: #f4f4f4;
+  border-left: 0.5px solid;
+}
+.aboutme-primary .description {
+  margin-bottom: 10px;
+}
+.aboutme-secondary {
+  padding: 1rem;
+  background: #adacac;
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  flex-wrap: wrap;
+}
+.aboutme-secondary .aboutmelist {
+  width: 50%;
+}
